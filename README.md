@@ -21,7 +21,6 @@
 - 🌱 Currently deepening my skills in the **MERN stack** (MongoDB, Express, React, Node.js)
 - 🔭 Recently shipped **ShopEasy**, a full-stack e-commerce app
 - 📫 Reach me at: linkedin.com/in/vishal-d6476
-- ⚡ Fun fact: when I'm not coding, I'm probably playing eFootball or catching up on the MCU
 
 ---
 
