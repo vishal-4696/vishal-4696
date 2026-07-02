@@ -1,15 +1,13 @@
 <h1 align="center">Hi there, I'm Vishal 👋</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=Aspiring+Full+Stack+Developer;MERN+Stack+%7C+React+%2B+Node+%2B+MongoDB;Final+Year+CS+Student+at+VIT+Chennai;Seeking+Internship+Opportunities+2026" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=Aspiring+Full+Stack+Developer;MERN+Stack+%7C+React+%2B+Node+%2B+MongoDB;Final+Year+CS+Student+at+VIT+Chennai" alt="Typing SVG" />
 </p>
-
 <p align="center">
   <a href="https://linkedin.com/in/vishal-d6476" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://shopeasy-frontend-neon.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-D4AF37?style=for-the-badge&logo=vercel&logoColor=black" />
+    <img src="https://img.shields.io/badge/ShopEasy-D4AF37?style=for-the-badge&logo=vercel&logoColor=black" />
   </a>
 </p>
 
