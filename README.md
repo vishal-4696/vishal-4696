@@ -47,13 +47,13 @@ A front-end clone of Instagram built with React and JSON Server as a mock REST A
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vishal-4696&show_icons=true&theme=github_dark&hide_border=true&title_color=D4AF37&icon_color=D4AF37&text_color=c9d1d9&bg_color=0d1117" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-4696&layout=compact&theme=github_dark&hide_border=true&title_color=D4AF37&text_color=c9d1d9&bg_color=0d1117" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=vishal-4696&show_icons=true&theme=github_dark&hide_border=true&title_color=D4AF37&icon_color=D4AF37&text_color=c9d1d9&bg_color=0d1117" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=vishal-4696&layout=compact&theme=github_dark&hide_border=true&title_color=D4AF37&text_color=c9d1d9&bg_color=0d1117" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishal-4696&theme=github-dark-blue&hide_border=true&background=0D1117&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37" />
 </p>
+
 
 ---
 
@@ -67,7 +67,6 @@ A front-end clone of Instagram built with React and JSON Server as a mock REST A
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=Github&logoColor=white" />
   </a>
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vishal-4696&color=D4AF37&style=flat-square" alt="profile views" />
 </p>
