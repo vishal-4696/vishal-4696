@@ -6,9 +6,6 @@
   <a href="https://linkedin.com/in/vishal-d6476" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://shopeasy-frontend-neon.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/ShopEasy-D4AF37?style=for-the-badge&logo=vercel&logoColor=black" />
-  </a>
 </p>
 
 ---
