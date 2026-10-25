@@ -1,108 +1,93 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:D4AF37&height=200&section=header&text=Vishal%20D&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Full%20Stack%20Developer&descSize=20&descAlignY=58" width="100%" />
+# Vishal D
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=MERN+Stack+%7C+React+%2B+Node+%2B+MongoDB;Final+Year+CS+(AI%2FML)+Student+at+VIT+Chennai;Building+projects+with+AI-assisted+development" alt="Typing SVG" />
+**Aspiring Full Stack Developer**
 
-<br/><br/>
+Final-year B.Sc. Computer Science (AI/ML) student at VIT Chennai, building MERN stack applications.
 
-<a href="https://linkedin.com/in/vishal-d6476"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:vishal.d6476@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://leetcode.com/u/Vishal_4696"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="https://linkedin.com/in/vishal-d6476"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:vishal.d6476@gmail.com"><img src="https://img.shields.io/badge/Email-30363D?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://leetcode.com/u/Vishal_4696"><img src="https://img.shields.io/badge/LeetCode-30363D?style=flat-square&logo=leetcode&logoColor=FFA116" /></a>
+<a href="https://github.com/vishal-4696"><img src="https://img.shields.io/badge/GitHub-30363D?style=flat-square&logo=github&logoColor=white" /></a>
 
 </div>
 
-<br/>
+---
 
-## 👨‍💻 About Me
+## About
 
 | | |
 |---|---|
-| 🎓 **Education** | B.Sc. Computer Science (AI/ML), VIT Chennai · 2027 |
-| 🌱 **Focus** | Full-stack apps with the MERN stack |
-| 🤖 **Workflow** | Prompt engineering, AI-guided coding, debugging with AI tools |
-| 🔭 **Latest** | Shipped **ShopEasy**, a full-stack e-commerce app |
-| 💼 **Looking for** | An opportunity to build more projects |
-| 📫 **Contact** | vishal.d6476@gmail.com |
+| **Education** | B.Sc. Computer Science (AI/ML), Vellore Institute of Technology, Chennai · 2024 – 2027 |
+| **Focus** | Full-stack web development with the MERN stack |
+| **Workflow** | Prompt engineering, AI-guided coding, debugging with AI tools |
+| **Currently** | Looking for an opportunity to build more projects |
 
-<br/>
+---
 
-## 🛠️ Tech Stack
+## Technical Skills
+
+| Category | Technologies |
+|---|---|
+| **Frontend** | React.js, Tailwind CSS, JavaScript, HTML5, CSS |
+| **Backend** | Node.js, Express.js, JWT Authentication |
+| **Database** | MongoDB, Mongoose |
+| **Tools & Deployment** | Git, GitHub, VS Code, Postman, Vercel, Render |
 
 <div align="center">
-
-| Frontend | Backend | Database | Tools & Deploy |
-|:---:|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css&perline=5" /> | <img src="https://skillicons.dev/icons?i=nodejs,express&perline=2" /> | <img src="https://skillicons.dev/icons?i=mongodb&perline=1" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel&perline=5" /> |
-
+<img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css,nodejs,express,mongodb,git,github,vscode,postman,vercel&theme=dark" />
 </div>
 
-<br/>
+---
 
-## 🚀 Featured Projects
+## Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### [ShopEasy](https://github.com/vishal-4696/ShopEasy) — Full-Stack E-Commerce Application
 
-### 🛒 [ShopEasy](https://shop-easy-frontend-neon.vercel.app)
-Full-stack e-commerce app
+React frontend on Vercel, Node/Express backend on Render, MongoDB Atlas database.
 
-- JWT auth with bcryptjs
-- Dynamic catalog via REST APIs
-- MongoDB-persisted cart
-- Protected routes with JWT middleware
-- Responsive Tailwind UI
+- Secure registration and login with JWT and bcryptjs
+- Dynamic product catalog served through RESTful APIs
+- Cart with add, remove, and quantity updates persisted in MongoDB
+- Protected routes secured by custom JWT middleware
+- Responsive layout across mobile, tablet, and desktop
 
-`React` `Node.js` `Express` `MongoDB` `JWT` `Tailwind`
+**Stack:** React, Node.js, Express, MongoDB, JWT, Tailwind CSS  
+**Links:** [Live Demo](https://shop-easy-frontend-neon.vercel.app) · [Source](https://github.com/vishal-4696/ShopEasy)
 
-[**Live Demo**](https://shop-easy-frontend-neon.vercel.app) · [**Code**](https://github.com/vishal-4696/ShopEasy)
+### [Instagram Clone](https://github.com/vishal-4696/Instagram-Clone) — React Frontend
 
-</td>
-<td width="50%" valign="top">
+Front-end clone backed by a mock REST API using JSON Server.
 
-### 📸 [Instagram Clone](https://github.com/vishal-4696/Instagram-Clone)
-React front-end with mock REST API
-
-- Async post feed
+- Asynchronous post feed
 - Stories carousel with preview modal
-- Profile pages and follower stats
-- Live follow / unfollow toggles
-- Suggestions sidebar via Axios
+- Profile pages with posts grid and follower stats
+- Follow and unfollow with live state updates
 
-`React` `Axios` `JSON Server` `CSS`
+**Stack:** React, Axios, JSON Server, CSS  
+**Links:** [Source](https://github.com/vishal-4696/Instagram-Clone)
 
-[**Code**](https://github.com/vishal-4696/Instagram-Clone)
+---
 
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 📜 Certifications
+## Certifications
 
 | Certificate | Issuer | Completed |
 |---|---|---|
-| Google AI — Professional Certificate | Google · Coursera | Oct 2026 |
-| AI for Web Developers — Specialization | Scrimba · Coursera | Sep 2026 |
+| Google AI — Professional Certificate | Google via Coursera | Oct 2026 |
+| AI for Web Developers — Specialization | Scrimba via Coursera | Sep 2026 |
 | Complete Web Development Course | Hitesh Choudhary | May 2026 |
 
-<br/>
+---
 
-## 📊 GitHub Stats
+## Languages
 
 <div align="center">
-
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=vishal-4696&show_icons=true&theme=github_dark&hide_border=true&title_color=D4AF37&icon_color=D4AF37&text_color=c9d1d9&bg_color=0d1117" />
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=vishal-4696&layout=compact&theme=github_dark&hide_border=true&title_color=D4AF37&text_color=c9d1d9&bg_color=0d1117" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vishal-4696&theme=github-dark-blue&hide_border=true&background=0D1117&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37" />
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=vishal-4696&color=D4AF37&style=flat-square" alt="profile views" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:D4AF37&height=100&section=footer" width="100%" />
-
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=vishal-4696&layout=compact&custom_title=Most%20Used%20Languages&hide_border=true&border_radius=8&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&card_width=500" />
 </div>
+
+---
+
+## Contact
+
+vishal.d6476@gmail.com · [LinkedIn](https://linkedin.com/in/vishal-d6476) · [GitHub](https://github.com/vishal-4696)
